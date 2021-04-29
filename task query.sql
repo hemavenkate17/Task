@@ -41,7 +41,7 @@ create function fn_BookTax(@eqty int)
 
 
 
-select qty, dbo.fn_BookTax(30)'tax amount' from sales 
+select qty, dbo.fn_BookTax(30)'Calculated tax' from sales 
 
 
  
