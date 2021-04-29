@@ -20,29 +20,27 @@ exec proc_author 'johnson','white',19.99
 drop proc proc_author
 
 
-create function fn_PrintBookTax(@eqty int)
-  returns @BookSalTax Table ( Tax float) 
+create function fn_BookTax(@eqty int)
+  returns float 
 	as
 	begin
 		declare 
-             @taxPayable float,
              @tax float 
-
              set @eqty = (select qty from sales )
              if(@eqty<10)
-	           set @tax = 2
+	           set @tax = 2/100
              else if(@eqty>10 and @eqty<20)
-                set @tax = 5
+                set @tax = 5/100
              else if(@eqty>20 and @eqty<30)
-                set @tax = 6
+                set @tax = 6/100
              else 
-                set @tax = 7.5
-             set @taxPayable = @eqty*@tax/100
-		     insert into @BookSalTax values(@taxPayable)
-		     return
+                set @tax = 7.5/100
+		 return @tax
     end
 
-select *from dbo.fn_printBooktax(5) 
+
+
+select qty, dbo.fn_BookTax(30)'tax amount' from sales 
 
 
  
