@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisibleby7", "Divisibleby7\Divisibleby7.csproj", "{116DDAC3-8305-45D2-9A08-0CC8E62F2EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{116DDAC3-8305-45D2-9A08-0CC8E62F2EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116DDAC3-8305-45D2-9A08-0CC8E62F2EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116DDAC3-8305-45D2-9A08-0CC8E62F2EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116DDAC3-8305-45D2-9A08-0CC8E62F2EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {552D6341-05D2-42EE-A2A7-B2CECD13289A}
+	EndGlobalSection
+EndGlobal

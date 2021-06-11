@@ -1,0 +1,13 @@
+C:\training\day 18\Task3solution\Task3program\bin\Debug\netcoreapp3.1\Task3program.exe
+C:\training\day 18\Task3solution\Task3program\bin\Debug\netcoreapp3.1\Task3program.deps.json
+C:\training\day 18\Task3solution\Task3program\bin\Debug\netcoreapp3.1\Task3program.runtimeconfig.json
+C:\training\day 18\Task3solution\Task3program\bin\Debug\netcoreapp3.1\Task3program.runtimeconfig.dev.json
+C:\training\day 18\Task3solution\Task3program\bin\Debug\netcoreapp3.1\Task3program.dll
+C:\training\day 18\Task3solution\Task3program\bin\Debug\netcoreapp3.1\Task3program.pdb
+C:\training\day 18\Task3solution\Task3program\obj\Debug\netcoreapp3.1\Task3program.csprojAssemblyReference.cache
+C:\training\day 18\Task3solution\Task3program\obj\Debug\netcoreapp3.1\Task3program.AssemblyInfoInputs.cache
+C:\training\day 18\Task3solution\Task3program\obj\Debug\netcoreapp3.1\Task3program.AssemblyInfo.cs
+C:\training\day 18\Task3solution\Task3program\obj\Debug\netcoreapp3.1\Task3program.csproj.CoreCompileInputs.cache
+C:\training\day 18\Task3solution\Task3program\obj\Debug\netcoreapp3.1\Task3program.dll
+C:\training\day 18\Task3solution\Task3program\obj\Debug\netcoreapp3.1\Task3program.pdb
+C:\training\day 18\Task3solution\Task3program\obj\Debug\netcoreapp3.1\Task3program.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\training\day 18\ecardsolution\ecard\obj\Debug\netcoreapp3.1\ecard.csprojAssemblyReference.cache
+C:\training\day 18\ecardsolution\ecard\obj\Debug\netcoreapp3.1\ecard.AssemblyInfoInputs.cache
+C:\training\day 18\ecardsolution\ecard\obj\Debug\netcoreapp3.1\ecard.AssemblyInfo.cs
+C:\training\day 18\ecardsolution\ecard\obj\Debug\netcoreapp3.1\ecard.csproj.CoreCompileInputs.cache
+C:\training\day 18\ecardsolution\ecard\bin\Debug\netcoreapp3.1\ecard.exe
+C:\training\day 18\ecardsolution\ecard\bin\Debug\netcoreapp3.1\ecard.deps.json
+C:\training\day 18\ecardsolution\ecard\bin\Debug\netcoreapp3.1\ecard.runtimeconfig.json
+C:\training\day 18\ecardsolution\ecard\bin\Debug\netcoreapp3.1\ecard.runtimeconfig.dev.json
+C:\training\day 18\ecardsolution\ecard\bin\Debug\netcoreapp3.1\ecard.dll
+C:\training\day 18\ecardsolution\ecard\bin\Debug\netcoreapp3.1\ecard.pdb
+C:\training\day 18\ecardsolution\ecard\obj\Debug\netcoreapp3.1\ecard.dll
+C:\training\day 18\ecardsolution\ecard\obj\Debug\netcoreapp3.1\ecard.pdb
+C:\training\day 18\ecardsolution\ecard\obj\Debug\netcoreapp3.1\ecard.genruntimeconfig.cache

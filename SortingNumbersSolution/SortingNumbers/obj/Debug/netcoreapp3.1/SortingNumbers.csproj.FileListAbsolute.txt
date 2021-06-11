@@ -1,0 +1,12 @@
+C:\training\day 18\SortingNumbersSolution\SortingNumbers\bin\Debug\netcoreapp3.1\SortingNumbers.exe
+C:\training\day 18\SortingNumbersSolution\SortingNumbers\bin\Debug\netcoreapp3.1\SortingNumbers.deps.json
+C:\training\day 18\SortingNumbersSolution\SortingNumbers\bin\Debug\netcoreapp3.1\SortingNumbers.runtimeconfig.json
+C:\training\day 18\SortingNumbersSolution\SortingNumbers\bin\Debug\netcoreapp3.1\SortingNumbers.runtimeconfig.dev.json
+C:\training\day 18\SortingNumbersSolution\SortingNumbers\bin\Debug\netcoreapp3.1\SortingNumbers.dll
+C:\training\day 18\SortingNumbersSolution\SortingNumbers\bin\Debug\netcoreapp3.1\SortingNumbers.pdb
+C:\training\day 18\SortingNumbersSolution\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.AssemblyInfoInputs.cache
+C:\training\day 18\SortingNumbersSolution\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.AssemblyInfo.cs
+C:\training\day 18\SortingNumbersSolution\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.csproj.CoreCompileInputs.cache
+C:\training\day 18\SortingNumbersSolution\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.dll
+C:\training\day 18\SortingNumbersSolution\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.pdb
+C:\training\day 18\SortingNumbersSolution\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.genruntimeconfig.cache
